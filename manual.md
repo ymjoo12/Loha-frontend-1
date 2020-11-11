@@ -18,7 +18,7 @@ Use the same name on the [Loha-frontend issue tracker](https://trello.com/invite
 ## Commit convention
 No articles like 'a', 'an', '-s', 'the', etc.
 
-First letter is Capital.
+First letter of commit message is have to uppercase.
 
 Commit functional atomically.
 
