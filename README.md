@@ -1,6 +1,8 @@
 # Loha-frontend
 Loha-frontend: develop mobile application as the subproject of Loha, video support social commerce project.
 
+Before you contribute, read this [manual](manual.md).
+
 ## Project Sturucture
 Loha-frontend has following 2 subprojects.
 
