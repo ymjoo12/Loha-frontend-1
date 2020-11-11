@@ -24,6 +24,16 @@ Commit functional atomically.
 
 Must include all features of changes.
 
+## Version naming
+
+(major).(minor).(build number)
+
+major: increase when the paradigm changes.
+
+minor: increase when new features added.
+
+build: increase when to rebuild like type error fix.
+
 ## How to merge?
 If you are a member of team private messenger, make vote agree or not.
 
